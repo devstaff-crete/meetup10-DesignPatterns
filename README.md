@@ -1,6 +1,8 @@
-MeetUp 10 - Design P{atterns
-DEFINITION:
+MeetUp 10 - Design Patterns
+===
+
+***DEFINITION:***
 
 
-MEETUP INFO:
+***MEETUP INFO:***
 
