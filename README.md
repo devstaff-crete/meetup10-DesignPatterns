@@ -6,8 +6,8 @@ What is a design pattern? Why we should care knowing them? How a developer shoul
 
 These questions and many more were answered during the 10th DevStaff meetup that took place at 12/05/2016 in Heraklion. In this repository you will find the material used during the event. The presentation was divided into two parts:
 
-1. _Design patterns for fun and profit_ by @archimidis.
-2. _Singleton, Dependency Injection, Dependency Injection Container_ by @agougousis.
+1. _Design patterns for fun and profit_ by [Nikolas Vourlakis](https://github.com/archimidis).
+2. _Singleton, Dependency Injection, Dependency Injection Container_ by [Alexandros Gougousis](https://github.com/agougousis).
 
 ## License
 Copyright (c) 2016 devstaff-crete
